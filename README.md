@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 I'm Shroxd
 
-- ✨ Trying to be a fullstack developer
-- ✨ Enjoy steam
-- ✨ My Bolg: [Space Cowboy](https://www.bebopser.com/)
+✨ Trying to be a fullstack developer
+✨ Enjoy steam
+✨ My Bolg: [Space Cowboy](https://www.bebopser.com/)
 
 
 [![Shroxd's github stats](https://github-readme-stats.vercel.app/api?username=ShroXd)](https://github.com/anuraghazra/github-readme-stats)

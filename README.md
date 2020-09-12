@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **ShroXd/ShroXd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 I'm Shroxd
 
-✨ Trying to be a fullstack developer<br/>
+✨  Trying to be a fullstack developer<br/>
 
-✨ Enjoy steam<br/>
+✨  Enjoy steam<br/>
 
-✨ My Bolg: [Space Cowboy](https://www.bebopser.com/)
+✨  My Bolg: [Space Cowboy](https://www.bebopser.com/)
 
 
 

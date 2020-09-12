@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 I'm Shroxd
 
-✨ Trying to be a fullstack developer
-✨ Enjoy steam
+✨ Trying to be a fullstack developer<br/>
+✨ Enjoy steam<br/>
 ✨ My Bolg: [Space Cowboy](https://www.bebopser.com/)
 
 

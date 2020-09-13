@@ -26,4 +26,4 @@ I'm Shroxd
 
 [![Shroxd's github stats](https://github-readme-stats.vercel.app/api?username=ShroXd)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShroXd&layout=compact&hide=HTML,Jupter Notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShroXd&layout=compact&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)

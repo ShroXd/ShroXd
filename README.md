@@ -20,7 +20,7 @@ I'm Shroxd
 
 - Enjoy coding<br/>
 
-- My Bolg: [Space Cowboy](https://www.bebopser.com/)
+- My Blog: [Space Cowboy](https://www.bebopser.com/)
 
 
 

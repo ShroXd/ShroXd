@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github.githubassets.com/images/mona-whisper.gif)
+
 I'm Shroxd
 
 - Trying to be a fullstack developer<br/>

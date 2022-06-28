@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 
-I'm Shroxd
+I'm Atriiy
 
 - Enjoy coding<br/>
 - Write articles on my [blog](https://www.atriiy.com/)
